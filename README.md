@@ -14,8 +14,8 @@ Este projeto apresenta a modelagem, simulação e controle de um robô manipulad
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <URL-DO-SEU-REPOSITORIO>
-    cd <NOME-DO-REPOSITORIO>
+    git clone https://github.com/stitchgui/Controle-de-sistemas-roboticos.git
+    cd Controle-de-sistemas-roboticos
     ```
 
 2.  **Instale as dependências:**
@@ -31,7 +31,7 @@ Este projeto apresenta a modelagem, simulação e controle de um robô manipulad
 
 3.  **Execute o script principal:**
     ```bash
-    python nome_do_seu_arquivo.py
+    python trabalho_final.py
     ```
 
 4.  **Verifique os resultados:**
