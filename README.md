@@ -9,6 +9,8 @@ Este projeto apresenta a modelagem, simulação e controle de um robô manipulad
 | Amanda Tanaka       | 12550153   |
 | Felipe Mendes       | 12752523   |
 | Guilherme Rebecchi  | 12550107   |
+| Eduardo Fares       | 12686036   |
+| Juan Thomas         | 12685550   |
 
 ## 🚀 Como Executar
 
